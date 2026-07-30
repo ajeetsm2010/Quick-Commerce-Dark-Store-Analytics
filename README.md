@@ -232,6 +232,23 @@ dashboard_screenshots/
 
 ---
 
+
+## Automated Alerting
+
+A Python automation script identifies high-risk dark stores based on SLA performance.
+
+### Workflow
+
+- Connects to SQLite database
+- Calculates SLA Breach % for each dark store
+- Flags stores with SLA Breach > 40%
+- Generates an Excel report for business users
+
+Output:
+
+High_Risk_Dark_Stores_Report.xlsx
+
+
 ## Future Enhancements
 
 - Real-time SQL Server integration
