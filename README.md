@@ -232,21 +232,22 @@ dashboard_screenshots/
 
 ---
 
-
 ## Automated Alerting
 
-A Python automation script identifies high-risk dark stores based on SLA performance.
+To simulate a real-world business monitoring workflow, an automation script was developed to identify high-risk dark stores based on operational performance.
 
-### Workflow
+### Features
 
-- Connects to SQLite database
-- Calculates SLA Breach % for each dark store
-- Flags stores with SLA Breach > 40%
-- Generates an Excel report for business users
+- Connects to the operational database
+- Calculates SLA Breach % for every dark store
+- Flags stores exceeding the SLA threshold
+- Generates an automated Excel summary report for business users
+- Demonstrates how operational alerts can support proactive decision-making
 
-Output:
+**Script:** `scripts/alert_high_risk_stores.py`
 
-High_Risk_Dark_Stores_Report.xlsx
+**Generated Report:** `High_Risk_Dark_Stores_Report.xlsx`
+
 
 
 ## Future Enhancements
