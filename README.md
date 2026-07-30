@@ -195,6 +195,76 @@ Visuals include:
 - Interactive filters for **City** and **Product Category** allow management to identify regional trends, compare performance, and support strategic planning.
 
 
+## Business Recommendations
+
+Based on the dashboard analysis, the following recommendations are suggested:
+
+- Reduce SLA breaches by optimizing rider allocation and delivery routes in high-risk cities.
+- Increase inventory audits to minimize stock mismatches between system and physical inventory.
+- Prioritize expansion and marketing investments in high-performing cities such as Gurugram and Delhi.
+- Improve order fulfillment processes to reduce cancellations and returns.
+- Monitor rider productivity using delivery time and order completion KPIs.
+- Use category-wise sales trends for inventory planning and demand forecasting.
+- Implement automated alerts for dark stores with high SLA breach percentages.
+
+
+
+## Power BI Features Used
+
+- Interactive KPI Cards
+- DAX Measures
+- Power Query
+- Data Modeling
+- Relationships
+- Slicers
+- Cross Filtering
+- Bar Charts
+- Donut Charts
+- Column Charts
+- Executive Dashboard Design
+- Drill-through Ready Layout
+
+
+## SQL Concepts Used
+
+- SELECT Statements
+- INNER JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions (SUM, COUNT, AVG)
+- CASE Statements
+- HAVING Clause
+- Data Validation Queries
+- Primary & Foreign Keys
+- Database Schema Design
+
+
+## Python Libraries Used
+
+- Pandas
+- NumPy
+- Faker
+- OpenPyXL
+- SQLite3
+
+
+## Skills Demonstrated
+
+- Business Analysis
+- Data Analysis
+- SQL
+- Power BI
+- Python
+- SQLite
+- Dashboard Development
+- Data Modeling
+- Business Documentation
+- KPI Development
+- Data Validation
+- Data Visualization
+- Git & GitHub
+
+
 
 
 ## Business Documents
