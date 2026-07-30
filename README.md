@@ -4,6 +4,12 @@ An end-to-end Business Analyst project that simulates the operations of a quick-
 
 ---
 
+## 🎥 Dashboard Demo
+
+▶️ **Download and watch the dashboard walkthrough:**
+
+[Dashboard Demo Video](demo/dashboard_demo.mp4)
+
 ## Project Overview
 
 The objective of this project is to analyze and monitor key operational metrics of a quick-commerce business, including:
