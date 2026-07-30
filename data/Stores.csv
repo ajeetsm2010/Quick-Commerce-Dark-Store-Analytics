@@ -1,0 +1,21 @@
+store_id,store_name,city,locality,capacity,latitude,longitude
+1,Gurugram Dark Store 1,Gurugram,Sector 14,6283,28.589078,77.113624
+2,Gurugram Dark Store 2,Gurugram,Sector 29,3627,28.735315,76.956037
+3,Gurugram Dark Store 3,Gurugram,Sector 46,4383,28.677097,77.035308
+4,Gurugram Dark Store 4,Gurugram,DLF Phase 1,3033,28.416749,77.260525
+5,Gurugram Dark Store 5,Gurugram,DLF Phase 3,6357,28.781898,77.079213
+6,Gurugram Dark Store 6,Gurugram,Sohna Road,5860,28.484477,76.967206
+7,Gurugram Dark Store 7,Gurugram,Golf Course Road,3975,28.489933,77.195264
+8,Noida Dark Store 8,Noida,Sector 18,6277,28.71696,77.140069
+9,Noida Dark Store 9,Noida,Sector 62,5119,28.604687,76.963153
+10,Noida Dark Store 10,Noida,Sector 137,6959,28.305166,77.219497
+11,Noida Dark Store 11,Noida,Sector 76,5401,28.315065,77.31106
+12,Delhi Dark Store 12,Delhi,Dwarka,4518,28.477858,77.304372
+13,Delhi Dark Store 13,Delhi,Rohini,3243,28.541305,77.168488
+14,Delhi Dark Store 14,Delhi,Lajpat Nagar,4541,28.739543,77.274612
+15,Delhi Dark Store 15,Delhi,Saket,4690,28.645825,76.90436
+16,Delhi Dark Store 16,Delhi,Janakpuri,6558,28.611967,77.22421
+17,Faridabad Dark Store 17,Faridabad,Sector 15,3811,28.723374,76.982058
+18,Faridabad Dark Store 18,Faridabad,NIT,4722,28.436715,77.08554
+19,Ghaziabad Dark Store 19,Ghaziabad,Indirapuram,3952,28.622666,77.02994
+20,Ghaziabad Dark Store 20,Ghaziabad,Raj Nagar,6295,28.788271,76.955888

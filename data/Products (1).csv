@@ -1,0 +1,501 @@
+sku_id,product_name,category,brand,mrp,selling_price,weight,shelf_life_days,reorder_level,is_active
+1001,Nestle Product 1,Dairy,Nestle,160,54,1kg,262,32,True
+1002,Amul Product 2,Dairy,Amul,131,60,500g,201,24,True
+1003,Mother Dairy Product 3,Dairy,Mother Dairy,127,84,1L,364,25,True
+1004,Nestle Product 4,Dairy,Nestle,344,272,1L,187,13,True
+1005,Mother Dairy Product 5,Dairy,Mother Dairy,387,355,1kg,303,12,True
+1006,Mother Dairy Product 6,Dairy,Mother Dairy,75,445,750ml,42,17,True
+1007,Nestle Product 7,Dairy,Nestle,155,252,1kg,113,33,True
+1008,Nestle Product 8,Dairy,Nestle,110,428,1kg,41,32,True
+1009,Nestle Product 9,Dairy,Nestle,191,46,1L,162,22,True
+1010,Nestle Product 10,Dairy,Nestle,344,243,250g,328,23,True
+1011,Amul Product 11,Dairy,Amul,206,90,500g,279,39,True
+1012,Amul Product 12,Dairy,Amul,40,445,1kg,103,32,True
+1013,Nestle Product 13,Dairy,Nestle,77,389,1L,266,29,True
+1014,Amul Product 14,Dairy,Amul,361,163,500g,166,26,True
+1015,Nestle Product 15,Dairy,Nestle,358,283,1L,222,15,True
+1016,Mother Dairy Product 16,Dairy,Mother Dairy,213,430,1L,300,23,True
+1017,Mother Dairy Product 17,Dairy,Mother Dairy,57,231,250g,93,26,True
+1018,Mother Dairy Product 18,Dairy,Mother Dairy,381,156,1kg,17,15,True
+1019,Nestle Product 19,Dairy,Nestle,270,107,250g,38,32,True
+1020,Mother Dairy Product 20,Dairy,Mother Dairy,389,347,750ml,108,34,True
+1021,Amul Product 21,Dairy,Amul,402,158,250g,128,27,True
+1022,Mother Dairy Product 22,Dairy,Mother Dairy,113,91,500g,246,40,True
+1023,Mother Dairy Product 23,Dairy,Mother Dairy,194,312,1kg,66,23,True
+1024,Nestle Product 24,Dairy,Nestle,50,21,1kg,243,29,True
+1025,Nestle Product 25,Dairy,Nestle,492,315,500g,145,28,True
+1026,Mother Dairy Product 26,Dairy,Mother Dairy,464,182,250g,249,26,True
+1027,Mother Dairy Product 27,Dairy,Mother Dairy,119,376,1L,41,22,True
+1028,Amul Product 28,Dairy,Amul,252,95,1kg,84,37,True
+1029,Nestle Product 29,Dairy,Nestle,243,168,500g,342,37,True
+1030,Mother Dairy Product 30,Dairy,Mother Dairy,119,441,1kg,267,34,True
+1031,Mother Dairy Product 31,Dairy,Mother Dairy,412,167,1L,80,23,True
+1032,Amul Product 32,Dairy,Amul,390,244,500g,105,17,True
+1033,Mother Dairy Product 33,Dairy,Mother Dairy,494,416,1L,192,24,True
+1034,Nestle Product 34,Dairy,Nestle,51,422,1kg,245,36,True
+1035,Mother Dairy Product 35,Dairy,Mother Dairy,312,382,750ml,66,19,True
+1036,Nestle Product 36,Dairy,Nestle,492,99,250g,174,24,True
+1037,Nestle Product 37,Dairy,Nestle,430,338,1kg,71,22,True
+1038,Amul Product 38,Dairy,Amul,83,127,250g,47,32,True
+1039,Nestle Product 39,Dairy,Nestle,470,52,250g,215,40,True
+1040,Nestle Product 40,Dairy,Nestle,128,225,500g,115,40,True
+1041,Mother Dairy Product 41,Dairy,Mother Dairy,205,207,750ml,204,31,True
+1042,Mother Dairy Product 42,Dairy,Mother Dairy,317,424,750ml,322,12,True
+1043,Nestle Product 43,Dairy,Nestle,374,18,500g,102,18,True
+1044,Mother Dairy Product 44,Dairy,Mother Dairy,289,80,500g,65,26,True
+1045,Nestle Product 45,Dairy,Nestle,205,30,1kg,82,22,True
+1046,Mother Dairy Product 46,Dairy,Mother Dairy,119,368,750ml,292,29,True
+1047,Mother Dairy Product 47,Dairy,Mother Dairy,78,399,1L,164,24,True
+1048,Mother Dairy Product 48,Dairy,Mother Dairy,108,295,1kg,169,20,True
+1049,Amul Product 49,Dairy,Amul,64,323,1L,42,32,True
+1050,Nestle Product 50,Dairy,Nestle,381,151,500g,31,11,True
+1051,Mother Dairy Product 51,Dairy,Mother Dairy,44,57,1L,83,18,True
+1052,Amul Product 52,Dairy,Amul,64,398,250g,314,19,True
+1053,Mother Dairy Product 53,Dairy,Mother Dairy,71,39,250g,258,25,True
+1054,Mother Dairy Product 54,Dairy,Mother Dairy,282,413,1L,135,18,True
+1055,Amul Product 55,Dairy,Amul,366,132,1L,277,21,True
+1056,Amul Product 56,Dairy,Amul,96,135,250g,234,22,True
+1057,Amul Product 57,Dairy,Amul,109,93,750ml,85,21,True
+1058,Nestle Product 58,Dairy,Nestle,395,328,250g,242,12,True
+1059,Mother Dairy Product 59,Dairy,Mother Dairy,467,190,500g,343,39,True
+1060,Nestle Product 60,Dairy,Nestle,258,228,250g,261,13,True
+1061,Amul Product 61,Dairy,Amul,214,55,1L,113,13,True
+1062,Amul Product 62,Dairy,Amul,388,390,500g,25,29,True
+1063,Nestle Product 63,Dairy,Nestle,207,313,750ml,88,17,True
+1064,Mother Dairy Product 64,Dairy,Mother Dairy,423,124,1L,215,35,True
+1065,Nestle Product 65,Dairy,Nestle,463,120,1kg,91,16,True
+1066,Amul Product 66,Dairy,Amul,92,54,250g,357,30,True
+1067,Mother Dairy Product 67,Dairy,Mother Dairy,172,320,250g,223,38,True
+1068,Mother Dairy Product 68,Dairy,Mother Dairy,328,443,500g,221,21,True
+1069,Mother Dairy Product 69,Dairy,Mother Dairy,230,290,1kg,289,37,True
+1070,Amul Product 70,Dairy,Amul,349,346,1L,266,38,True
+1071,Mother Dairy Product 71,Dairy,Mother Dairy,485,84,1L,356,16,True
+1072,Amul Product 72,Dairy,Amul,218,387,1kg,59,18,True
+1073,Nestle Product 73,Dairy,Nestle,185,59,500g,54,11,True
+1074,Nestle Product 74,Dairy,Nestle,192,102,750ml,28,36,True
+1075,Amul Product 75,Dairy,Amul,470,74,500g,323,36,True
+1076,Mother Dairy Product 76,Dairy,Mother Dairy,397,180,250g,118,19,True
+1077,Amul Product 77,Dairy,Amul,345,360,1kg,200,28,True
+1078,Amul Product 78,Dairy,Amul,156,316,500g,113,26,True
+1079,Amul Product 79,Dairy,Amul,218,54,1L,259,35,True
+1080,Nestle Product 80,Dairy,Nestle,270,278,1L,166,14,True
+1081,Amul Product 81,Dairy,Amul,129,172,1L,189,26,True
+1082,Mother Dairy Product 82,Dairy,Mother Dairy,389,40,750ml,36,27,True
+1083,Amul Product 83,Dairy,Amul,382,170,1L,327,38,True
+1084,Amul Product 84,Dairy,Amul,344,403,1kg,101,38,True
+1085,Amul Product 85,Dairy,Amul,59,326,1kg,55,13,True
+1086,Nestle Product 86,Dairy,Nestle,207,235,1kg,224,27,True
+1087,Nestle Product 87,Dairy,Nestle,377,71,750ml,313,20,True
+1088,Mother Dairy Product 88,Dairy,Mother Dairy,166,440,250g,212,11,True
+1089,Amul Product 89,Dairy,Amul,98,384,500g,221,26,True
+1090,Mother Dairy Product 90,Dairy,Mother Dairy,58,279,500g,38,14,True
+1091,Mother Dairy Product 91,Dairy,Mother Dairy,119,86,250g,273,13,True
+1092,Mother Dairy Product 92,Dairy,Mother Dairy,155,230,750ml,127,26,True
+1093,Mother Dairy Product 93,Dairy,Mother Dairy,312,435,1L,247,12,True
+1094,Nestle Product 94,Dairy,Nestle,370,231,500g,365,35,True
+1095,Nestle Product 95,Dairy,Nestle,91,212,750ml,127,23,True
+1096,Amul Product 96,Dairy,Amul,33,67,500g,125,31,True
+1097,Mother Dairy Product 97,Dairy,Mother Dairy,116,371,500g,199,23,True
+1098,Nestle Product 98,Dairy,Nestle,299,153,750ml,316,33,True
+1099,Nestle Product 99,Dairy,Nestle,211,287,750ml,108,18,True
+1100,Amul Product 100,Dairy,Amul,136,231,250g,67,11,True
+1101,Aashirvaad Product 1,Grocery,Aashirvaad,363,247,1L,190,32,True
+1102,Aashirvaad Product 2,Grocery,Aashirvaad,205,38,750ml,256,16,True
+1103,Fortune Product 3,Grocery,Fortune,62,238,750ml,67,19,True
+1104,Tata Product 4,Grocery,Tata,294,209,750ml,96,25,True
+1105,Aashirvaad Product 5,Grocery,Aashirvaad,346,327,1L,251,39,True
+1106,Tata Product 6,Grocery,Tata,365,344,500g,259,11,True
+1107,Aashirvaad Product 7,Grocery,Aashirvaad,63,397,750ml,146,22,True
+1108,Tata Product 8,Grocery,Tata,328,243,1L,148,10,True
+1109,Aashirvaad Product 9,Grocery,Aashirvaad,110,302,1kg,20,19,True
+1110,Aashirvaad Product 10,Grocery,Aashirvaad,84,275,1kg,297,35,True
+1111,Fortune Product 11,Grocery,Fortune,83,92,250g,209,15,True
+1112,Aashirvaad Product 12,Grocery,Aashirvaad,301,198,250g,144,19,True
+1113,Fortune Product 13,Grocery,Fortune,191,136,1kg,193,28,True
+1114,Fortune Product 14,Grocery,Fortune,262,55,750ml,51,22,True
+1115,Aashirvaad Product 15,Grocery,Aashirvaad,186,219,1L,258,13,True
+1116,Aashirvaad Product 16,Grocery,Aashirvaad,235,99,750ml,323,13,True
+1117,Tata Product 17,Grocery,Tata,486,67,250g,279,31,True
+1118,Tata Product 18,Grocery,Tata,252,434,1kg,264,23,True
+1119,Aashirvaad Product 19,Grocery,Aashirvaad,422,223,500g,31,31,True
+1120,Fortune Product 20,Grocery,Fortune,106,428,750ml,93,32,True
+1121,Tata Product 21,Grocery,Tata,211,214,1L,240,23,True
+1122,Fortune Product 22,Grocery,Fortune,425,278,750ml,33,22,True
+1123,Fortune Product 23,Grocery,Fortune,66,134,250g,234,11,True
+1124,Aashirvaad Product 24,Grocery,Aashirvaad,181,249,250g,249,14,True
+1125,Tata Product 25,Grocery,Tata,359,45,1kg,309,18,True
+1126,Tata Product 26,Grocery,Tata,246,380,250g,286,30,True
+1127,Tata Product 27,Grocery,Tata,265,288,1kg,354,13,True
+1128,Aashirvaad Product 28,Grocery,Aashirvaad,402,240,250g,307,13,True
+1129,Tata Product 29,Grocery,Tata,163,315,1kg,142,26,True
+1130,Tata Product 30,Grocery,Tata,262,33,1L,287,16,True
+1131,Tata Product 31,Grocery,Tata,110,281,250g,327,20,True
+1132,Aashirvaad Product 32,Grocery,Aashirvaad,395,172,250g,160,39,True
+1133,Tata Product 33,Grocery,Tata,345,188,250g,233,20,True
+1134,Aashirvaad Product 34,Grocery,Aashirvaad,450,407,1kg,143,21,True
+1135,Fortune Product 35,Grocery,Fortune,285,307,1kg,231,20,True
+1136,Tata Product 36,Grocery,Tata,116,342,750ml,149,28,True
+1137,Aashirvaad Product 37,Grocery,Aashirvaad,376,421,500g,297,11,True
+1138,Tata Product 38,Grocery,Tata,354,281,500g,336,33,True
+1139,Fortune Product 39,Grocery,Fortune,481,157,250g,244,31,True
+1140,Aashirvaad Product 40,Grocery,Aashirvaad,300,422,250g,295,21,True
+1141,Aashirvaad Product 41,Grocery,Aashirvaad,76,433,500g,190,10,True
+1142,Tata Product 42,Grocery,Tata,180,124,1kg,361,15,True
+1143,Tata Product 43,Grocery,Tata,217,353,500g,222,25,True
+1144,Aashirvaad Product 44,Grocery,Aashirvaad,290,42,1L,149,18,True
+1145,Aashirvaad Product 45,Grocery,Aashirvaad,175,328,250g,91,24,True
+1146,Aashirvaad Product 46,Grocery,Aashirvaad,139,417,500g,217,12,True
+1147,Aashirvaad Product 47,Grocery,Aashirvaad,373,170,1L,129,15,True
+1148,Tata Product 48,Grocery,Tata,394,19,750ml,268,14,True
+1149,Fortune Product 49,Grocery,Fortune,73,257,1L,143,30,True
+1150,Tata Product 50,Grocery,Tata,349,191,750ml,194,31,True
+1151,Aashirvaad Product 51,Grocery,Aashirvaad,416,208,750ml,261,25,True
+1152,Aashirvaad Product 52,Grocery,Aashirvaad,27,301,250g,243,40,True
+1153,Tata Product 53,Grocery,Tata,130,336,250g,143,22,True
+1154,Fortune Product 54,Grocery,Fortune,356,405,1kg,324,40,True
+1155,Tata Product 55,Grocery,Tata,170,35,500g,230,19,True
+1156,Aashirvaad Product 56,Grocery,Aashirvaad,330,354,750ml,158,17,True
+1157,Tata Product 57,Grocery,Tata,101,175,500g,195,28,True
+1158,Tata Product 58,Grocery,Tata,51,77,750ml,211,20,True
+1159,Fortune Product 59,Grocery,Fortune,197,129,500g,264,33,True
+1160,Aashirvaad Product 60,Grocery,Aashirvaad,465,208,750ml,243,37,True
+1161,Aashirvaad Product 61,Grocery,Aashirvaad,114,439,750ml,8,12,True
+1162,Tata Product 62,Grocery,Tata,322,250,750ml,237,39,True
+1163,Tata Product 63,Grocery,Tata,476,31,1kg,77,27,True
+1164,Tata Product 64,Grocery,Tata,352,61,750ml,7,25,True
+1165,Tata Product 65,Grocery,Tata,404,282,250g,130,33,True
+1166,Aashirvaad Product 66,Grocery,Aashirvaad,323,312,1L,308,18,True
+1167,Tata Product 67,Grocery,Tata,103,151,250g,291,18,True
+1168,Fortune Product 68,Grocery,Fortune,75,321,500g,194,26,True
+1169,Fortune Product 69,Grocery,Fortune,187,39,1kg,67,39,True
+1170,Tata Product 70,Grocery,Tata,85,40,1kg,170,31,True
+1171,Fortune Product 71,Grocery,Fortune,75,225,250g,314,18,True
+1172,Aashirvaad Product 72,Grocery,Aashirvaad,500,305,750ml,216,20,True
+1173,Aashirvaad Product 73,Grocery,Aashirvaad,147,328,500g,124,34,True
+1174,Tata Product 74,Grocery,Tata,294,200,1L,118,25,True
+1175,Aashirvaad Product 75,Grocery,Aashirvaad,149,122,1L,173,39,True
+1176,Tata Product 76,Grocery,Tata,216,132,1L,248,40,True
+1177,Aashirvaad Product 77,Grocery,Aashirvaad,135,408,750ml,113,25,True
+1178,Tata Product 78,Grocery,Tata,149,149,250g,39,32,True
+1179,Tata Product 79,Grocery,Tata,453,335,250g,235,29,True
+1180,Aashirvaad Product 80,Grocery,Aashirvaad,65,150,1kg,347,27,True
+1181,Aashirvaad Product 81,Grocery,Aashirvaad,138,51,1L,304,37,True
+1182,Fortune Product 82,Grocery,Fortune,325,116,1L,292,30,True
+1183,Aashirvaad Product 83,Grocery,Aashirvaad,179,35,1L,156,40,True
+1184,Aashirvaad Product 84,Grocery,Aashirvaad,327,157,500g,331,29,True
+1185,Tata Product 85,Grocery,Tata,469,86,1L,225,33,True
+1186,Fortune Product 86,Grocery,Fortune,445,223,1kg,224,10,True
+1187,Fortune Product 87,Grocery,Fortune,216,98,500g,149,17,True
+1188,Fortune Product 88,Grocery,Fortune,303,128,1kg,56,22,True
+1189,Fortune Product 89,Grocery,Fortune,483,186,1kg,277,12,True
+1190,Tata Product 90,Grocery,Tata,388,182,1kg,64,31,True
+1191,Aashirvaad Product 91,Grocery,Aashirvaad,97,216,750ml,77,20,True
+1192,Aashirvaad Product 92,Grocery,Aashirvaad,243,238,500g,296,38,True
+1193,Tata Product 93,Grocery,Tata,108,414,500g,317,37,True
+1194,Tata Product 94,Grocery,Tata,146,365,250g,89,18,True
+1195,Fortune Product 95,Grocery,Fortune,256,416,500g,112,25,True
+1196,Aashirvaad Product 96,Grocery,Aashirvaad,138,367,250g,81,30,True
+1197,Aashirvaad Product 97,Grocery,Aashirvaad,251,337,1kg,206,23,True
+1198,Aashirvaad Product 98,Grocery,Aashirvaad,245,356,250g,348,19,True
+1199,Tata Product 99,Grocery,Tata,322,107,250g,178,21,True
+1200,Fortune Product 100,Grocery,Fortune,500,370,750ml,303,11,True
+1201,Lay's Product 1,Snacks,Lay's,458,244,1kg,300,40,True
+1202,Bingo Product 2,Snacks,Bingo,281,303,500g,333,10,True
+1203,Kurkure Product 3,Snacks,Kurkure,410,271,750ml,72,30,True
+1204,Lay's Product 4,Snacks,Lay's,291,267,1L,285,34,True
+1205,Kurkure Product 5,Snacks,Kurkure,342,445,1L,234,32,True
+1206,Lay's Product 6,Snacks,Lay's,239,287,1L,130,39,True
+1207,Kurkure Product 7,Snacks,Kurkure,326,298,500g,327,14,True
+1208,Bingo Product 8,Snacks,Bingo,173,259,1kg,62,35,True
+1209,Bingo Product 9,Snacks,Bingo,313,114,750ml,311,27,True
+1210,Lay's Product 10,Snacks,Lay's,317,352,750ml,161,33,True
+1211,Lay's Product 11,Snacks,Lay's,429,102,1kg,53,24,True
+1212,Lay's Product 12,Snacks,Lay's,89,372,250g,362,38,True
+1213,Bingo Product 13,Snacks,Bingo,267,98,750ml,348,27,True
+1214,Lay's Product 14,Snacks,Lay's,65,113,1kg,357,33,True
+1215,Lay's Product 15,Snacks,Lay's,458,412,500g,94,24,True
+1216,Lay's Product 16,Snacks,Lay's,252,423,750ml,196,17,True
+1217,Bingo Product 17,Snacks,Bingo,233,131,1kg,354,26,True
+1218,Lay's Product 18,Snacks,Lay's,393,108,250g,128,34,True
+1219,Lay's Product 19,Snacks,Lay's,210,317,500g,249,17,True
+1220,Kurkure Product 20,Snacks,Kurkure,225,361,1kg,336,39,True
+1221,Kurkure Product 21,Snacks,Kurkure,351,273,750ml,140,11,True
+1222,Lay's Product 22,Snacks,Lay's,43,278,1kg,35,13,True
+1223,Lay's Product 23,Snacks,Lay's,303,185,250g,312,16,True
+1224,Kurkure Product 24,Snacks,Kurkure,481,268,250g,196,15,True
+1225,Bingo Product 25,Snacks,Bingo,240,264,750ml,172,38,True
+1226,Bingo Product 26,Snacks,Bingo,418,170,1kg,260,24,True
+1227,Lay's Product 27,Snacks,Lay's,467,89,750ml,246,18,True
+1228,Lay's Product 28,Snacks,Lay's,124,384,1L,163,18,True
+1229,Bingo Product 29,Snacks,Bingo,435,194,1kg,121,20,True
+1230,Lay's Product 30,Snacks,Lay's,351,309,1L,267,26,True
+1231,Lay's Product 31,Snacks,Lay's,39,236,1L,37,34,True
+1232,Bingo Product 32,Snacks,Bingo,141,354,250g,268,39,True
+1233,Bingo Product 33,Snacks,Bingo,53,350,750ml,277,35,True
+1234,Lay's Product 34,Snacks,Lay's,335,200,250g,234,33,True
+1235,Kurkure Product 35,Snacks,Kurkure,221,309,750ml,122,27,True
+1236,Lay's Product 36,Snacks,Lay's,321,197,500g,9,38,True
+1237,Bingo Product 37,Snacks,Bingo,362,417,250g,343,26,True
+1238,Kurkure Product 38,Snacks,Kurkure,258,222,500g,7,36,True
+1239,Bingo Product 39,Snacks,Bingo,86,224,500g,89,31,True
+1240,Bingo Product 40,Snacks,Bingo,421,204,1L,331,18,True
+1241,Kurkure Product 41,Snacks,Kurkure,336,164,500g,84,29,True
+1242,Kurkure Product 42,Snacks,Kurkure,173,73,750ml,289,37,True
+1243,Lay's Product 43,Snacks,Lay's,460,242,1kg,103,13,True
+1244,Lay's Product 44,Snacks,Lay's,142,282,1L,255,37,True
+1245,Bingo Product 45,Snacks,Bingo,307,176,1L,124,19,True
+1246,Lay's Product 46,Snacks,Lay's,473,62,250g,200,16,True
+1247,Kurkure Product 47,Snacks,Kurkure,110,205,250g,347,30,True
+1248,Kurkure Product 48,Snacks,Kurkure,291,160,750ml,54,37,True
+1249,Lay's Product 49,Snacks,Lay's,205,183,500g,150,30,True
+1250,Lay's Product 50,Snacks,Lay's,324,85,1L,350,23,True
+1251,Kurkure Product 51,Snacks,Kurkure,391,275,1kg,77,10,True
+1252,Lay's Product 52,Snacks,Lay's,65,272,1L,81,10,True
+1253,Lay's Product 53,Snacks,Lay's,222,337,1kg,258,21,True
+1254,Bingo Product 54,Snacks,Bingo,105,182,1kg,283,21,True
+1255,Kurkure Product 55,Snacks,Kurkure,435,440,750ml,81,24,True
+1256,Lay's Product 56,Snacks,Lay's,352,395,1L,228,14,True
+1257,Kurkure Product 57,Snacks,Kurkure,320,75,750ml,229,16,True
+1258,Kurkure Product 58,Snacks,Kurkure,194,448,250g,69,30,True
+1259,Kurkure Product 59,Snacks,Kurkure,175,304,1L,323,25,True
+1260,Lay's Product 60,Snacks,Lay's,490,168,500g,190,19,True
+1261,Bingo Product 61,Snacks,Bingo,183,303,750ml,93,23,True
+1262,Kurkure Product 62,Snacks,Kurkure,495,227,1L,253,34,True
+1263,Bingo Product 63,Snacks,Bingo,42,136,750ml,54,36,True
+1264,Kurkure Product 64,Snacks,Kurkure,475,144,750ml,269,36,True
+1265,Lay's Product 65,Snacks,Lay's,357,214,750ml,21,22,True
+1266,Kurkure Product 66,Snacks,Kurkure,144,138,250g,13,28,True
+1267,Kurkure Product 67,Snacks,Kurkure,371,415,1kg,258,39,True
+1268,Bingo Product 68,Snacks,Bingo,92,347,1L,147,14,True
+1269,Lay's Product 69,Snacks,Lay's,104,357,250g,363,21,True
+1270,Kurkure Product 70,Snacks,Kurkure,21,145,250g,159,18,True
+1271,Kurkure Product 71,Snacks,Kurkure,403,355,1kg,240,20,True
+1272,Lay's Product 72,Snacks,Lay's,296,400,1L,300,29,True
+1273,Bingo Product 73,Snacks,Bingo,464,63,500g,55,23,True
+1274,Lay's Product 74,Snacks,Lay's,341,264,250g,302,10,True
+1275,Lay's Product 75,Snacks,Lay's,152,186,750ml,356,37,True
+1276,Kurkure Product 76,Snacks,Kurkure,427,22,750ml,355,26,True
+1277,Bingo Product 77,Snacks,Bingo,416,60,1L,13,22,True
+1278,Bingo Product 78,Snacks,Bingo,482,145,750ml,316,22,True
+1279,Lay's Product 79,Snacks,Lay's,387,104,1kg,162,19,True
+1280,Bingo Product 80,Snacks,Bingo,207,184,1L,277,40,True
+1281,Kurkure Product 81,Snacks,Kurkure,98,42,750ml,314,23,True
+1282,Lay's Product 82,Snacks,Lay's,261,175,1L,12,40,True
+1283,Lay's Product 83,Snacks,Lay's,178,28,1L,187,23,True
+1284,Bingo Product 84,Snacks,Bingo,99,109,1kg,64,39,True
+1285,Bingo Product 85,Snacks,Bingo,427,120,750ml,27,17,True
+1286,Kurkure Product 86,Snacks,Kurkure,424,373,500g,319,28,True
+1287,Lay's Product 87,Snacks,Lay's,197,344,500g,20,28,True
+1288,Lay's Product 88,Snacks,Lay's,336,134,1kg,294,16,True
+1289,Kurkure Product 89,Snacks,Kurkure,351,385,1kg,297,37,True
+1290,Lay's Product 90,Snacks,Lay's,356,341,750ml,251,13,True
+1291,Lay's Product 91,Snacks,Lay's,23,399,500g,40,21,True
+1292,Kurkure Product 92,Snacks,Kurkure,392,267,750ml,349,14,True
+1293,Bingo Product 93,Snacks,Bingo,416,160,1kg,140,25,True
+1294,Lay's Product 94,Snacks,Lay's,357,333,250g,302,34,True
+1295,Bingo Product 95,Snacks,Bingo,114,132,250g,42,38,True
+1296,Kurkure Product 96,Snacks,Kurkure,177,439,1L,329,40,True
+1297,Lay's Product 97,Snacks,Lay's,290,50,750ml,89,26,True
+1298,Lay's Product 98,Snacks,Lay's,35,320,1kg,247,16,True
+1299,Bingo Product 99,Snacks,Bingo,183,245,750ml,287,18,True
+1300,Bingo Product 100,Snacks,Bingo,334,56,1L,86,22,True
+1301,Pepsi Product 1,Beverages,Pepsi,316,103,1kg,332,19,True
+1302,Bisleri Product 2,Beverages,Bisleri,117,336,750ml,280,33,True
+1303,Pepsi Product 3,Beverages,Pepsi,190,133,1kg,285,33,True
+1304,Pepsi Product 4,Beverages,Pepsi,429,411,1L,64,36,True
+1305,Coca-Cola Product 5,Beverages,Coca-Cola,34,72,1L,336,10,True
+1306,Coca-Cola Product 6,Beverages,Coca-Cola,118,24,1L,354,25,True
+1307,Pepsi Product 7,Beverages,Pepsi,45,339,250g,173,16,True
+1308,Coca-Cola Product 8,Beverages,Coca-Cola,360,359,1kg,151,39,True
+1309,Coca-Cola Product 9,Beverages,Coca-Cola,464,18,750ml,334,39,True
+1310,Pepsi Product 10,Beverages,Pepsi,302,164,750ml,294,28,True
+1311,Pepsi Product 11,Beverages,Pepsi,22,189,500g,33,35,True
+1312,Coca-Cola Product 12,Beverages,Coca-Cola,269,280,1L,272,17,True
+1313,Coca-Cola Product 13,Beverages,Coca-Cola,405,212,1kg,172,12,True
+1314,Bisleri Product 14,Beverages,Bisleri,419,274,750ml,276,29,True
+1315,Coca-Cola Product 15,Beverages,Coca-Cola,370,26,500g,228,20,True
+1316,Pepsi Product 16,Beverages,Pepsi,226,374,1L,152,24,True
+1317,Pepsi Product 17,Beverages,Pepsi,328,284,750ml,142,22,True
+1318,Bisleri Product 18,Beverages,Bisleri,48,448,1kg,233,33,True
+1319,Pepsi Product 19,Beverages,Pepsi,321,430,1kg,61,24,True
+1320,Coca-Cola Product 20,Beverages,Coca-Cola,100,192,1kg,122,27,True
+1321,Pepsi Product 21,Beverages,Pepsi,277,372,250g,127,16,True
+1322,Pepsi Product 22,Beverages,Pepsi,470,187,500g,55,16,True
+1323,Bisleri Product 23,Beverages,Bisleri,365,42,750ml,337,23,True
+1324,Bisleri Product 24,Beverages,Bisleri,110,202,1kg,238,38,True
+1325,Bisleri Product 25,Beverages,Bisleri,234,441,250g,323,31,True
+1326,Pepsi Product 26,Beverages,Pepsi,113,366,750ml,65,33,True
+1327,Coca-Cola Product 27,Beverages,Coca-Cola,26,189,750ml,302,25,True
+1328,Coca-Cola Product 28,Beverages,Coca-Cola,161,213,750ml,352,12,True
+1329,Pepsi Product 29,Beverages,Pepsi,278,145,1kg,90,19,True
+1330,Coca-Cola Product 30,Beverages,Coca-Cola,479,264,750ml,148,17,True
+1331,Bisleri Product 31,Beverages,Bisleri,135,296,1L,47,12,True
+1332,Pepsi Product 32,Beverages,Pepsi,41,70,1L,306,21,True
+1333,Bisleri Product 33,Beverages,Bisleri,433,118,250g,220,40,True
+1334,Pepsi Product 34,Beverages,Pepsi,90,139,750ml,26,11,True
+1335,Bisleri Product 35,Beverages,Bisleri,450,127,500g,303,12,True
+1336,Bisleri Product 36,Beverages,Bisleri,434,363,1L,174,25,True
+1337,Pepsi Product 37,Beverages,Pepsi,80,203,250g,25,14,True
+1338,Bisleri Product 38,Beverages,Bisleri,124,121,1kg,226,30,True
+1339,Coca-Cola Product 39,Beverages,Coca-Cola,417,88,500g,127,27,True
+1340,Pepsi Product 40,Beverages,Pepsi,439,256,750ml,39,23,True
+1341,Coca-Cola Product 41,Beverages,Coca-Cola,239,102,250g,284,38,True
+1342,Pepsi Product 42,Beverages,Pepsi,59,418,1L,265,26,True
+1343,Coca-Cola Product 43,Beverages,Coca-Cola,112,116,250g,279,18,True
+1344,Coca-Cola Product 44,Beverages,Coca-Cola,257,224,750ml,195,12,True
+1345,Bisleri Product 45,Beverages,Bisleri,239,410,1kg,184,23,True
+1346,Bisleri Product 46,Beverages,Bisleri,242,375,1kg,204,26,True
+1347,Pepsi Product 47,Beverages,Pepsi,47,418,500g,102,20,True
+1348,Bisleri Product 48,Beverages,Bisleri,224,176,750ml,140,40,True
+1349,Pepsi Product 49,Beverages,Pepsi,138,45,500g,44,33,True
+1350,Pepsi Product 50,Beverages,Pepsi,428,341,1kg,73,37,True
+1351,Pepsi Product 51,Beverages,Pepsi,28,360,750ml,107,25,True
+1352,Coca-Cola Product 52,Beverages,Coca-Cola,317,353,750ml,69,24,True
+1353,Bisleri Product 53,Beverages,Bisleri,35,69,1kg,279,36,True
+1354,Bisleri Product 54,Beverages,Bisleri,432,347,1L,322,14,True
+1355,Bisleri Product 55,Beverages,Bisleri,318,346,1L,116,38,True
+1356,Bisleri Product 56,Beverages,Bisleri,372,298,1L,124,21,True
+1357,Coca-Cola Product 57,Beverages,Coca-Cola,101,440,250g,324,13,True
+1358,Bisleri Product 58,Beverages,Bisleri,181,321,750ml,287,22,True
+1359,Pepsi Product 59,Beverages,Pepsi,26,47,1kg,247,33,True
+1360,Pepsi Product 60,Beverages,Pepsi,115,31,500g,340,40,True
+1361,Bisleri Product 61,Beverages,Bisleri,419,149,250g,102,34,True
+1362,Coca-Cola Product 62,Beverages,Coca-Cola,395,182,250g,61,30,True
+1363,Coca-Cola Product 63,Beverages,Coca-Cola,205,235,750ml,317,34,True
+1364,Pepsi Product 64,Beverages,Pepsi,185,125,1kg,121,10,True
+1365,Pepsi Product 65,Beverages,Pepsi,56,260,500g,109,13,True
+1366,Bisleri Product 66,Beverages,Bisleri,475,129,250g,209,27,True
+1367,Bisleri Product 67,Beverages,Bisleri,381,251,1L,99,17,True
+1368,Coca-Cola Product 68,Beverages,Coca-Cola,334,302,1L,331,28,True
+1369,Coca-Cola Product 69,Beverages,Coca-Cola,36,235,500g,140,30,True
+1370,Coca-Cola Product 70,Beverages,Coca-Cola,115,300,1L,262,17,True
+1371,Pepsi Product 71,Beverages,Pepsi,136,75,750ml,183,13,True
+1372,Pepsi Product 72,Beverages,Pepsi,360,435,1L,363,25,True
+1373,Pepsi Product 73,Beverages,Pepsi,421,27,500g,107,12,True
+1374,Coca-Cola Product 74,Beverages,Coca-Cola,427,143,1L,271,34,True
+1375,Bisleri Product 75,Beverages,Bisleri,54,169,750ml,298,10,True
+1376,Coca-Cola Product 76,Beverages,Coca-Cola,230,254,1kg,214,39,True
+1377,Coca-Cola Product 77,Beverages,Coca-Cola,316,183,1L,344,36,True
+1378,Coca-Cola Product 78,Beverages,Coca-Cola,266,310,250g,273,28,True
+1379,Coca-Cola Product 79,Beverages,Coca-Cola,80,217,1L,109,27,True
+1380,Bisleri Product 80,Beverages,Bisleri,417,120,1L,305,24,True
+1381,Coca-Cola Product 81,Beverages,Coca-Cola,466,286,500g,198,38,True
+1382,Pepsi Product 82,Beverages,Pepsi,364,76,250g,216,21,True
+1383,Bisleri Product 83,Beverages,Bisleri,445,22,250g,354,40,True
+1384,Pepsi Product 84,Beverages,Pepsi,123,369,750ml,103,36,True
+1385,Coca-Cola Product 85,Beverages,Coca-Cola,75,371,1L,214,18,True
+1386,Pepsi Product 86,Beverages,Pepsi,264,388,500g,115,22,True
+1387,Coca-Cola Product 87,Beverages,Coca-Cola,107,252,1kg,250,13,True
+1388,Pepsi Product 88,Beverages,Pepsi,97,239,750ml,29,19,True
+1389,Bisleri Product 89,Beverages,Bisleri,418,326,1kg,98,36,True
+1390,Bisleri Product 90,Beverages,Bisleri,161,180,1kg,302,37,True
+1391,Coca-Cola Product 91,Beverages,Coca-Cola,460,273,750ml,140,16,True
+1392,Coca-Cola Product 92,Beverages,Coca-Cola,408,212,1kg,231,18,True
+1393,Coca-Cola Product 93,Beverages,Coca-Cola,340,372,1L,51,15,True
+1394,Coca-Cola Product 94,Beverages,Coca-Cola,52,246,500g,65,19,True
+1395,Pepsi Product 95,Beverages,Pepsi,92,184,1L,31,16,True
+1396,Coca-Cola Product 96,Beverages,Coca-Cola,260,301,250g,174,17,True
+1397,Coca-Cola Product 97,Beverages,Coca-Cola,223,152,1kg,248,38,True
+1398,Pepsi Product 98,Beverages,Pepsi,337,199,750ml,302,27,True
+1399,Bisleri Product 99,Beverages,Bisleri,345,347,500g,177,30,True
+1400,Bisleri Product 100,Beverages,Bisleri,209,253,500g,194,20,True
+1401,Colgate Product 1,Personal Care,Colgate,359,189,1kg,335,10,True
+1402,Dove Product 2,Personal Care,Dove,378,446,1kg,334,38,True
+1403,Dove Product 3,Personal Care,Dove,447,256,1L,348,31,True
+1404,Lux Product 4,Personal Care,Lux,353,408,500g,210,10,True
+1405,Lux Product 5,Personal Care,Lux,302,270,1kg,211,18,True
+1406,Dove Product 6,Personal Care,Dove,484,43,1kg,301,25,True
+1407,Colgate Product 7,Personal Care,Colgate,310,65,750ml,82,28,True
+1408,Dove Product 8,Personal Care,Dove,154,353,250g,144,40,True
+1409,Colgate Product 9,Personal Care,Colgate,176,346,750ml,235,22,True
+1410,Dove Product 10,Personal Care,Dove,80,429,750ml,349,33,True
+1411,Dove Product 11,Personal Care,Dove,431,281,1L,31,40,True
+1412,Lux Product 12,Personal Care,Lux,134,22,1L,218,40,True
+1413,Lux Product 13,Personal Care,Lux,29,124,1kg,286,40,True
+1414,Lux Product 14,Personal Care,Lux,161,302,1L,124,13,True
+1415,Dove Product 15,Personal Care,Dove,93,111,500g,31,24,True
+1416,Colgate Product 16,Personal Care,Colgate,276,338,1kg,321,11,True
+1417,Lux Product 17,Personal Care,Lux,175,114,1kg,172,27,True
+1418,Colgate Product 18,Personal Care,Colgate,161,315,250g,139,12,True
+1419,Lux Product 19,Personal Care,Lux,185,112,500g,10,11,True
+1420,Colgate Product 20,Personal Care,Colgate,55,403,750ml,58,32,True
+1421,Lux Product 21,Personal Care,Lux,107,186,1L,241,36,True
+1422,Dove Product 22,Personal Care,Dove,279,356,250g,187,20,True
+1423,Lux Product 23,Personal Care,Lux,323,231,1kg,14,31,True
+1424,Dove Product 24,Personal Care,Dove,444,83,500g,304,23,True
+1425,Lux Product 25,Personal Care,Lux,232,365,250g,223,11,True
+1426,Dove Product 26,Personal Care,Dove,262,383,750ml,265,24,True
+1427,Lux Product 27,Personal Care,Lux,175,163,1L,59,26,True
+1428,Colgate Product 28,Personal Care,Colgate,115,157,1L,129,12,True
+1429,Dove Product 29,Personal Care,Dove,115,347,500g,313,24,True
+1430,Lux Product 30,Personal Care,Lux,270,411,750ml,66,21,True
+1431,Dove Product 31,Personal Care,Dove,493,258,250g,146,10,True
+1432,Dove Product 32,Personal Care,Dove,258,133,750ml,216,36,True
+1433,Lux Product 33,Personal Care,Lux,246,217,1kg,126,40,True
+1434,Colgate Product 34,Personal Care,Colgate,349,231,250g,266,11,True
+1435,Colgate Product 35,Personal Care,Colgate,455,224,1L,326,29,True
+1436,Lux Product 36,Personal Care,Lux,414,210,750ml,48,19,True
+1437,Dove Product 37,Personal Care,Dove,51,308,750ml,8,12,True
+1438,Colgate Product 38,Personal Care,Colgate,169,343,750ml,345,32,True
+1439,Colgate Product 39,Personal Care,Colgate,76,363,750ml,82,32,True
+1440,Lux Product 40,Personal Care,Lux,374,195,1kg,271,12,True
+1441,Lux Product 41,Personal Care,Lux,38,271,250g,113,39,True
+1442,Lux Product 42,Personal Care,Lux,192,67,500g,202,22,True
+1443,Colgate Product 43,Personal Care,Colgate,467,127,500g,247,23,True
+1444,Colgate Product 44,Personal Care,Colgate,491,245,750ml,270,37,True
+1445,Colgate Product 45,Personal Care,Colgate,393,312,500g,264,13,True
+1446,Lux Product 46,Personal Care,Lux,413,73,250g,260,35,True
+1447,Colgate Product 47,Personal Care,Colgate,292,405,750ml,304,36,True
+1448,Colgate Product 48,Personal Care,Colgate,442,113,250g,11,20,True
+1449,Colgate Product 49,Personal Care,Colgate,388,234,250g,224,29,True
+1450,Lux Product 50,Personal Care,Lux,183,156,1kg,95,32,True
+1451,Lux Product 51,Personal Care,Lux,232,182,750ml,265,13,True
+1452,Dove Product 52,Personal Care,Dove,144,75,1L,154,28,True
+1453,Dove Product 53,Personal Care,Dove,478,283,500g,228,27,True
+1454,Dove Product 54,Personal Care,Dove,335,131,500g,248,25,True
+1455,Colgate Product 55,Personal Care,Colgate,197,31,1L,283,26,True
+1456,Colgate Product 56,Personal Care,Colgate,106,44,250g,28,30,True
+1457,Colgate Product 57,Personal Care,Colgate,270,386,500g,316,23,True
+1458,Colgate Product 58,Personal Care,Colgate,483,272,250g,258,21,True
+1459,Lux Product 59,Personal Care,Lux,315,98,250g,68,26,True
+1460,Lux Product 60,Personal Care,Lux,105,182,250g,113,36,True
+1461,Lux Product 61,Personal Care,Lux,228,301,500g,146,31,True
+1462,Colgate Product 62,Personal Care,Colgate,90,349,750ml,316,20,True
+1463,Colgate Product 63,Personal Care,Colgate,306,18,500g,91,18,True
+1464,Lux Product 64,Personal Care,Lux,378,139,250g,66,37,True
+1465,Lux Product 65,Personal Care,Lux,237,190,500g,357,11,True
+1466,Dove Product 66,Personal Care,Dove,378,336,750ml,129,13,True
+1467,Colgate Product 67,Personal Care,Colgate,161,77,500g,189,15,True
+1468,Lux Product 68,Personal Care,Lux,138,276,250g,27,34,True
+1469,Lux Product 69,Personal Care,Lux,287,362,750ml,224,14,True
+1470,Lux Product 70,Personal Care,Lux,494,438,750ml,192,40,True
+1471,Lux Product 71,Personal Care,Lux,253,96,250g,22,31,True
+1472,Lux Product 72,Personal Care,Lux,374,285,1L,156,11,True
+1473,Dove Product 73,Personal Care,Dove,479,105,250g,55,35,True
+1474,Lux Product 74,Personal Care,Lux,124,21,750ml,221,38,True
+1475,Lux Product 75,Personal Care,Lux,134,260,1L,174,15,True
+1476,Dove Product 76,Personal Care,Dove,368,354,1L,127,31,True
+1477,Colgate Product 77,Personal Care,Colgate,405,170,750ml,280,12,True
+1478,Dove Product 78,Personal Care,Dove,191,264,250g,194,30,True
+1479,Colgate Product 79,Personal Care,Colgate,144,334,750ml,268,23,True
+1480,Lux Product 80,Personal Care,Lux,442,351,500g,115,26,True
+1481,Dove Product 81,Personal Care,Dove,26,317,750ml,301,26,True
+1482,Dove Product 82,Personal Care,Dove,419,205,250g,23,18,True
+1483,Dove Product 83,Personal Care,Dove,242,410,500g,155,28,True
+1484,Dove Product 84,Personal Care,Dove,282,345,1kg,219,38,True
+1485,Lux Product 85,Personal Care,Lux,199,290,1L,137,35,True
+1486,Lux Product 86,Personal Care,Lux,232,444,250g,39,36,True
+1487,Dove Product 87,Personal Care,Dove,427,114,250g,255,31,True
+1488,Dove Product 88,Personal Care,Dove,79,109,500g,62,39,True
+1489,Lux Product 89,Personal Care,Lux,444,149,250g,24,20,True
+1490,Colgate Product 90,Personal Care,Colgate,494,232,750ml,118,20,True
+1491,Lux Product 91,Personal Care,Lux,102,408,500g,149,18,True
+1492,Colgate Product 92,Personal Care,Colgate,273,214,1kg,325,36,True
+1493,Dove Product 93,Personal Care,Dove,151,169,1L,305,13,True
+1494,Lux Product 94,Personal Care,Lux,71,93,750ml,94,27,True
+1495,Dove Product 95,Personal Care,Dove,444,173,1L,51,28,True
+1496,Lux Product 96,Personal Care,Lux,398,140,750ml,260,27,True
+1497,Lux Product 97,Personal Care,Lux,467,337,250g,105,23,True
+1498,Colgate Product 98,Personal Care,Colgate,49,159,250g,358,16,True
+1499,Dove Product 99,Personal Care,Dove,244,41,250g,303,13,True
+1500,Colgate Product 100,Personal Care,Colgate,94,187,750ml,118,14,True
