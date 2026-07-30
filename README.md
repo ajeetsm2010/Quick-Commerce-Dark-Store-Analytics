@@ -6,9 +6,9 @@ An end-to-end Business Analyst project that simulates the operations of a quick-
 
 ## 🎥 Dashboard Demo
 
-▶️ **Download and watch the dashboard walkthrough:**
+Watch the complete dashboard walkthrough here:
 
-[Dashboard Demo Video](demo/dashboard_demo.mp4)
+➡️ [Download Dashboard Demo](demo/dashboard_demo.mp4)
 
 ## Project Overview
 
