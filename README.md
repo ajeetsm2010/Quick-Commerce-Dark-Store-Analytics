@@ -155,6 +155,42 @@ Visuals include:
 
 ---
 
+
+## Key Business Insights
+
+### Revenue Performance
+- The platform generated **₹7.0 Million** in total revenue from **5,000 completed orders**, demonstrating strong business volume during the analysis period.
+- The estimated **Average Order Value (AOV)** was approximately **₹1,400 per order** (₹7M ÷ 5K orders), indicating healthy customer spending.
+
+### Geographic Performance
+- **Gurugram** was the highest revenue-generating city, contributing approximately **₹2.3–2.5 Million**, making it the strongest performing market.
+- **Delhi** ranked second with roughly **₹1.8–2.0 Million** in revenue.
+- **Noida, Faridabad, and Ghaziabad** generated comparatively lower revenue, highlighting opportunities for localized marketing and operational improvements.
+
+### Delivery Performance
+- The average delivery time was **16.06 minutes**, indicating that deliveries were completed close to the expected quick-commerce SLA.
+- However, the dashboard reports an **SLA Breach Rate of 47.14%**, meaning **nearly 1 out of every 2 orders** exceeded the target delivery SLA. This represents the most critical operational improvement area.
+
+### Product Category Analysis
+- Orders were distributed across **five major product categories**:
+  - Beverages
+  - Dairy
+  - Grocery
+  - Personal Care
+  - Snacks
+- The category distribution appears balanced, ensuring revenue is not dependent on a single category and reducing category-specific business risk.
+
+### Order Status Analysis
+- **Delivered orders accounted for approximately 93.6%** of all orders (**around 4,680 out of 5,000 orders**), indicating strong operational execution.
+- **Cancelled and Returned orders together represented approximately 6.4%** of total orders (**around 320 orders**), suggesting opportunities to reduce order failures and improve customer satisfaction.
+
+### Executive Summary
+- The dashboard consolidates revenue, operational, inventory, and delivery KPIs into a single executive view, enabling faster data-driven business decisions.
+- Interactive filters for **City** and **Product Category** allow management to identify regional trends, compare performance, and support strategic planning.
+
+
+
+
 ## Business Documents
 
 - Business Requirements Document (BRD)
