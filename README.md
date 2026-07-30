@@ -79,10 +79,11 @@ Visuals
 - Order Status Distribution
 - Average Delivery Time by City
 
----
-
 ### Dashboard Preview
 
+![Operations Dashboard](dashboard_screenshots/page1_operations.png)
+
+---
 
 ## 2. Inventory Analytics Dashboard
 
@@ -97,6 +98,10 @@ Visuals
 - Inventory by Category
 - System vs Physical Stock
 - Stock Distribution by Store
+
+### Dashboard Preview
+
+![Inventory Dashboard](dashboard_screenshots/page2_inventory.png)
 
 ---
 
@@ -114,7 +119,12 @@ Visuals
 - Revenue by Rider
 - Rider Shift Analysis
 
+### Dashboard Preview
+
+![Rider Dashboard](dashboard_screenshots/page3_rider_sla.png)
+
 ---
+
 
 ## 4. Executive Business Summary
 
@@ -126,6 +136,10 @@ Visuals include:
 - Orders by Category
 - Payment Mode Distribution
 - Order Status Distribution
+  
+### Dashboard Preview
+
+![Executive Dashboard](dashboard_screenshots/page4_executive_summary.png)
 
 ---
 
