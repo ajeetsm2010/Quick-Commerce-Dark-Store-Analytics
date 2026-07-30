@@ -48,6 +48,18 @@ Business Insights
 
 ---
 
+## Project Architecture
+
+```mermaid
+flowchart TD
+    A[Business Requirements] --> B[Database Design]
+    B --> C[Python Data Generation]
+    C --> D[SQLite Database]
+    D --> E[SQL Analytics]
+    E --> F[Power BI Dashboard]
+    F --> G[Business Insights]
+```
+
 ## Database Tables
 
 - Orders
